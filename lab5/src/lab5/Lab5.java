@@ -16,7 +16,7 @@ public class Lab5 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-          System.out.println("Hello World");//says hello world in a printed line to the user
+          System.out.println("Hello World Update");//says hello world in a printed line to the user
     }
     
 }
